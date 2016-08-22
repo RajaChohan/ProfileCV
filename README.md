@@ -1,0 +1,2 @@
+# ProfileCV
+I Created This Profile Website,using codeigniter framework &amp; MVC Architecture, based on these language(PHP,HTML5,CSS3,AJAX,JAVASCRIPT,JQUERY) in this project student can add,update,delete.there biography,Skills,Academic record,Certification.it is completely responsive site with complete validation &amp; security. Sql file is available so import the sql file &amp; overview the Project.After downloading this project paste this url http://localhost/cv_ci/index.php/login. ScreenShots are also Available.
